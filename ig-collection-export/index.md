@@ -3,6 +3,8 @@ layout: default
 title: IG Collection Export
 ---
 
+<img class="product-icon" src="../assets/icons/ig-collection-export-128.png" alt="IG Collection Export icon" width="64" height="64">
+
 # IG Collection Export
 
 IG Collection Export is an experimental Chrome extension for saving your own Instagram Saved collections to a local folder you choose.

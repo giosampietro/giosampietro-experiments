@@ -124,8 +124,11 @@ li {
 
 a {
   color: var(--text-primary);
-  text-decoration: none;
-  border-bottom: 0;
+  text-decoration-line: underline;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.08em;
+  text-decoration-skip-ink: none;
 }
 
 a:hover,

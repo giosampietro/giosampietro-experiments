@@ -19,7 +19,7 @@
   color: var(--text-primary);
   font-family: var(--panel-font-family);
   font-feature-settings: "ss06";
-  font-size: 16px;
+  font-size: 14px;
 }
 
 * {
@@ -37,7 +37,7 @@ body {
   color: var(--text-secondary);
   font-family: var(--panel-font-family);
   font-feature-settings: "ss06";
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.45;
 }
 
@@ -45,7 +45,7 @@ body {
   width: min(100%, 760px);
   min-height: 100vh;
   margin: 0 auto;
-  padding: 32px 16px 56px;
+  padding: 32px 16px 120px;
 }
 
 .product-icon {
@@ -82,7 +82,7 @@ h2,
 h3 {
   margin: 0;
   color: var(--text-primary);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
   letter-spacing: 0;
   line-height: 1.25;
@@ -102,7 +102,7 @@ h3 {
 
 .content-title {
   color: var(--text-primary);
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.25;
   text-transform: uppercase;
 }
@@ -142,7 +142,7 @@ a:focus-visible {
 code {
   color: var(--text-primary);
   font-family: var(--panel-font-family);
-  font-size: 16px;
+  font-size: 14px;
 }
 
 hr {

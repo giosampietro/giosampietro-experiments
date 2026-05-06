@@ -133,8 +133,8 @@ a {
 
 a:hover,
 a:focus-visible {
-  color: var(--surface);
-  background: var(--text-primary);
+  color: var(--text-primary);
+  background: transparent;
 }
 
 a:focus-visible {

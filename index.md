@@ -13,5 +13,3 @@ GS Experiments is a place for small, useful software experiments by Gio Sampietr
 ## Experiments
 
 - [IG Collection Export](ig-collection-export/)
-
-All rights reserved.

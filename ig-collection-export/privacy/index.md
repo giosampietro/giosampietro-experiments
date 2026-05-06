@@ -44,5 +44,3 @@ The author does not retain extension data because it is not sent to the author.
 You can delete exported files from the folder you selected and clear extension data through Chrome.
 
 For privacy questions, contact experiments@giosampietro.xyz.
-
-All rights reserved.

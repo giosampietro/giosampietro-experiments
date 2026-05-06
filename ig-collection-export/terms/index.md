@@ -26,5 +26,3 @@ Individual support, troubleshooting, and recovery assistance are not offered.
 The author may update, suspend, or remove the extension at any time.
 
 For takedown, privacy, legal, or Chrome Web Store policy concerns, contact experiments@giosampietro.xyz.
-
-All rights reserved.

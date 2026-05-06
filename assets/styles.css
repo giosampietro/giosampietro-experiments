@@ -53,6 +53,15 @@ body {
   margin: 0 0 18px;
 }
 
+.back-link {
+  margin-bottom: 24px;
+  color: var(--text-muted);
+}
+
+.back-link a {
+  color: inherit;
+}
+
 h1,
 h2,
 h3 {

@@ -5,12 +5,19 @@ title: GS Experiments
 
 # GS Experiments
 
-- [IG Collection Export](ig-collection-export/)  
+<section class="experiment-entry">
+  <img class="product-icon" src="assets/icons/ig-collection-export-128.png" alt="IG Collection Export icon" width="64" height="64">
+  <p><a href="ig-collection-export/">IG Collection Export</a></p>
+  <p>
   A local personal archive tool for saving your own IG Saved collections to a folder you choose.
+  </p>
+</section>
 
 ## About
 
 GS Experiments is a place for small, useful software experiments by Gio Sampietro.
 
-- [@giosampietro](https://instagram.com/giosampietro)
-- [giosampietro.xyz](https://giosampietro.xyz)
+<p class="plain-links">
+  <a href="https://instagram.com/giosampietro">@giosampietro</a><br>
+  <a href="https://giosampietro.xyz">giosampietro.xyz</a>
+</p>

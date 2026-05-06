@@ -55,6 +55,10 @@ body {
   margin: 0 0 18px;
 }
 
+.experiment-entry {
+  margin-bottom: 32px;
+}
+
 .back-link {
   margin-bottom: 24px;
   color: var(--text-muted);
@@ -104,7 +108,7 @@ li {
 a {
   color: var(--text-primary);
   text-decoration: none;
-  border-bottom: 1px solid currentColor;
+  border-bottom: 0;
 }
 
 a:hover,

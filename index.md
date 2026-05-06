@@ -13,7 +13,7 @@ title: GS Experiments
   </p>
 </section>
 
-## About
+---
 
 GS Experiments is a place for small, useful software experiments by Gio Sampietro.
 

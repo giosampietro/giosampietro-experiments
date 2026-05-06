@@ -55,6 +55,15 @@ body {
   margin: 0 0 18px;
 }
 
+.icon-link {
+  display: inline-block;
+}
+
+.icon-link:hover,
+.icon-link:focus-visible {
+  background: transparent;
+}
+
 .experiment-entry {
   margin-bottom: 32px;
 }

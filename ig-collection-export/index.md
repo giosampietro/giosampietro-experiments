@@ -5,6 +5,8 @@ title: IG Collection Export
 
 <p class="back-link"><a href="../">Back to GS Experiments</a></p>
 
+---
+
 <img class="product-icon" src="../assets/icons/ig-collection-export-128.png" alt="IG Collection Export icon" width="64" height="64">
 
 # IG Collection Export

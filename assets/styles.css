@@ -18,6 +18,7 @@
   background: var(--surface);
   color: var(--text-primary);
   font-family: var(--panel-font-family);
+  font-feature-settings: "ss06";
   font-size: 16px;
 }
 
@@ -35,6 +36,7 @@ body {
   background: var(--surface);
   color: var(--text-secondary);
   font-family: var(--panel-font-family);
+  font-feature-settings: "ss06";
   font-size: 16px;
   line-height: 1.45;
 }

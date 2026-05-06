@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "Giosampietro Diatype";
+  src: url("fonts/giosampietro-diatype-regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: dark;
+  --panel-font-family: "Giosampietro Diatype", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --surface: #000000;
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.88);
+  --text-muted: rgba(255, 255, 255, 0.66);
+  --border-strong: #ffffff;
+  --focus-ring: rgba(255, 255, 255, 0.2);
+  background: var(--surface);
+  color: var(--text-primary);
+  font-family: var(--panel-font-family);
+  font-size: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--surface);
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  background: var(--surface);
+  color: var(--text-secondary);
+  font-family: var(--panel-font-family);
+  font-size: 16px;
+  line-height: 1.45;
+}
+
+.site-page {
+  width: min(100%, 760px);
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 32px 16px 56px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  color: var(--text-primary);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  line-height: 1.25;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin-bottom: 24px;
+}
+
+h2,
+h3 {
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+
+p,
+ul,
+ol {
+  margin: 0 0 16px;
+}
+
+ul,
+ol {
+  padding-left: 18px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+a {
+  color: var(--text-primary);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--surface);
+  background: var(--text-primary);
+}
+
+a:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 4px var(--focus-ring);
+}
+
+code {
+  color: var(--text-primary);
+  font-family: var(--panel-font-family);
+  font-size: 16px;
+}
+
+hr {
+  margin: 32px 0;
+  border: 0;
+  border-top: 1px solid var(--border-strong);
+}
+
+p:last-child,
+ul:last-child,
+ol:last-child {
+  margin-bottom: 0;
+}

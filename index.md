@@ -1,3 +1,8 @@
+---
+layout: default
+title: GS Experiments
+---
+
 # GS Experiments
 
 GS Experiments is a place for small, useful software experiments by Gio Sampietro.

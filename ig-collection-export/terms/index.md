@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Use
+---
+
 # Terms of Use
 
 Last updated: 2026-05-06

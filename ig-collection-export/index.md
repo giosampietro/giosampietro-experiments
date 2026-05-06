@@ -1,3 +1,8 @@
+---
+layout: default
+title: IG Collection Export
+---
+
 # IG Collection Export
 
 IG Collection Export is an experimental Chrome extension for saving your own Instagram Saved collections to a local folder you choose.

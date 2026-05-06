@@ -19,7 +19,7 @@ title: GS Experiments
 
 ---
 
-GS Experiments is a place for small software experiments by Gio Sampietro.
+GS Experiments is a place for small software experiments by Gio Sampietro, my jewelry atelier.
 
 <p class="plain-links">
   <a href="https://instagram.com/giosampietro">@giosampietro</a><br>

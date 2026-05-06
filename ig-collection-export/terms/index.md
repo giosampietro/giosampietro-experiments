@@ -3,6 +3,10 @@ layout: default
 title: Terms of Use
 ---
 
+<p class="back-link"><a href="../">Back to IG Collection Export</a></p>
+
+---
+
 # Terms of Use
 
 Last updated: 2026-05-06

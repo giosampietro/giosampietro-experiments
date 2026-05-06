@@ -3,6 +3,10 @@ layout: default
 title: Privacy Policy
 ---
 
+<p class="back-link"><a href="../">Back to IG Collection Export</a></p>
+
+---
+
 # Privacy Policy
 
 Last updated: 2026-05-06
